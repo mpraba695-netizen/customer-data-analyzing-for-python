@@ -33,15 +33,15 @@ This project helps stakeholders:
 
 🛠️ Tools & Tech
 
-Tool	              Purpose
+Tool                 Purpose
 
-Python     -	Data cleaning and analysis
+*Python     -	Data cleaning and analysis
 
-Jupyter    -	Notebook environment
+*Jupyter    -	Notebook environment
 
-pandas     -	Data manipulation
+*pandas     -	Data manipulation
 
-matplotlib -	Data visualization
+*matplotlib -	Data visualization
 
 
 📁 Files Included
