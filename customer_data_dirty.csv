@@ -1,0 +1,81 @@
+CustomerID,FirstName,LastName,Gender,Age,Email,PhoneNumber,City,State,Country,ZipCode,RegistrationDate,LastPurchaseDate,TotalOrders,TotalSpend,PreferredPaymentMethod,LoyaltyMember,NewsletterSubscribed,CustomerSegment,FeedbackScore
+1000,Victor,Cross,Male,28.0,brownrobin@rice-ward.com,+1-675-541-8286x9387,North Williamburgh,Mississippi@,New Zealand,82344,15-04-2024,2025/07/10,42.0,4216.67,Debit Card,Yes,No,Platinum,2
+1001,Christopher,Gonzales,Male,,amy71@elliott.com,611.835.0614x9044,Justinfurt,New Jersey@,Lithuania,24047,05-Feb-2023,2025/04/23,43.0,3071.15,Debit Card,,,Silver,3
+1002,Robert,Griffin,,61.0,oscar61@hotmail.com,8723321093339,New Kimberlyview,Utah$,Pakistan,59694,03-May-2023,09-12-2024,30.0,2601.74,Credit Card,Yes,No,Gold,6
+1003,Tiffany,Wright,,62.0,jeremy47@@hotmail.com,509.094.9901x965,Brooketon,Nevadaa,Palestinian Territory,71426,2025/08/01,12-02-2025,3.0,3533.83,Bank Transfer,No,Yes,Silver,10
+1004,Raymond,Gonzales,Female,20.0,uwilkerson@hurley-brady.com,001-403-040-0845,Yangville,New Jersey,Colombia,82696,12-May-2023,2025/06/15,33.0,4866.7,Credit Card,No,No,Bronze,7
+1005,Miguel,Davila,,69.0,gailstafford@thomas.com,643-956-0109x767,Marissaborough,South Carolina,Niger,80355,16-03-2022,2025/01/06,,3346.23,PayPal,,,Bronze,6
+1006,Jessica,Elliott,,37.0,ncoleman@@carlson-knox.com,(006)856-0673,Lake Suzanne,Oklahoma$,Uzbekistan,78940,30-09-2024,03/08/2025,18.0,105.09,Credit Card,,,Silver,4
+1007,Jeffrey,Chavez,Male,,amber08@small.com,+1-731-848-8153x433,Lake Bethanyhaven,West Virginia,Myanmar,13219,16-10-2021,2025/01/23,4.0,576.52,Debit Card,Yes,,Gold,8
+1008,Thomas,Lyons,,,clarencefrank@hotmail.com,4594050003246,Richardsville,Mississippia,Venezuela,70267,2023/07/03,31-10-2024,31.0,738.44,Credit Card,,No,Bronze,5
+1009,Joel,Roman,Male,62.0,haaschristopher@gmail.com,695.554.5642,Marshallfort,Maine,Italy,33095,2024/10/17,2025/04/05,12.0,2396.32,Credit Card,,,Platinum,7
+1010,Blake,White,Male,,cynthiaespinoza@thompson.org,366-967-0878x90853,Moniqueside,New Mexicoa,Iceland,74433,12-May-2021,2025/04/05,30.0,,Bank Transfer,,No,Platinum,2
+1011,Eric,Green,Female,,douglasrivera@gmail.com,522.686.6078,New Chad,Virginia,Saint Kitts and Nevis,65770,18-Apr-2021,14-02-2025,50.0,4925.55,Bank Transfer,Yes,No,Silver,2
+1012,Amanda,Gomez,Male,40.0,dylan63@gmail.com,722-733-0843x54124,West Samantha,New Hampshirea,Martinique,90502,28-08-2021,27-07-2025,3.0,,Credit Card,,,Bronze,8
+1013,Angela,Wright,Female,34.0,randy66@yahoo.com,1299116033186,North Deborahchester,Minnesota$,Libyan Arab Jamahiriya,,13-May-2021,20/02/2025,19.0,220.51,Credit Card,No,,Platinum,5
+1014,Angela,Salazar,Male,63.0,stewartmargaret@hotmail.com,6983201382327,Kathrynview,Nevadaa,Honduras,94675,18-Jul-2025,21/10/2024,38.0,1832.24,Debit Card,,,Silver,9
+1015,Jennifer,,Male,37.0,tara99@lawrence.com,+1-333-822-0192x380,Cynthiafort,North Dakotaa,Faroe Islands,,02-Sep-2023,24-05-2025,37.0,2765.24,PayPal,Yes,No,Gold,6
+1016,Tammie,Richardson,Female,44.0,johnsonsheila@yahoo.com,+1-303-285-6785,Autumntown,Texas$,Honduras,44685,16-Sep-2021,27-09-2025,17.0,4460.87,Debit Card,Yes,,Bronze,5
+1017,Marisa,Foster,,51.0,mary75@gmail.com,106.504.6359,Griffinside,Arkansas$,Chile,15886,03-08-2025,30/06/2025,28.0,3072.87,Debit Card,Yes,Yes,Bronze,seven
+1018,Kristin,Dean,,70.0,kimlori@yahoo.com,1138118621479,West Catherinemouth,Vermonta,Jordan,28172,12-10-2021,2025/08/08,50.0,1877.77,Bank Transfer,,Yes,Platinum,seven
+1019,John,Bates,Male,21.0,ojohnson@perez-hall.com,+1-351-229-9303x64795,Santosshire,South Carolina@,San Marino,45941,2023/12/21,2025/01/06,28.0,4639.2,PayPal,Yes,No,Bronze,10
+1020,,Lopez,Female,,stewartmark@wang.info,(847)167-0936,Johnsonton,Hawaii$,Libyan Arab Jamahiriya,83968,2023/12/02,24-08-2025,5.0,3138.25,Bank Transfer,Yes,,Gold,9
+1021,Pamela,,Male,61.0,jamessilva@sanders.net,5101843376,East Janice,Utah,Sweden,27162,10-10-2020,2025/04/11,49.0,3618.13,PayPal,Yes,,Bronze,7
+1022,Jonathan,Tran,Male,59.0,garciajames@gmail.com,+1-900-927-7026x80941,Annahaven,West Virginia@,Cocos (Keeling) Islands,98004,24-Feb-2021,2025/02/20,7.0,3378.09,Credit Card,Yes,,Gold,8
+1023,Kelly,Williams,,66.0,thomasdean@yahoo.com,+1-544-076-9070x82138,Lake Amber,Oregon@,South Georgia and the South Sandwich Islands,91545,18-09-2022,09/02/2025,20.0,2873.39,PayPal,Yes,No,Platinum,6
+1024,Gregory,Anderson,Male,18.0,changalexandra@gmail.com,001-440-534-9183x5526,South Albertburgh,Minnesota@,Netherlands Antilles,04084,2023/04/02,30/11/2024,20.0,752.26,Debit Card,No,No,Platinum,4
+1025,Matthew,Collins,,42.0,kimberly28@rice.com,(092)428-4290,Kimtown,Tennessee$,Andorra,96631,13-Jun-2023,2025/04/18,11.0,2407.86,Credit Card,Yes,Yes,Silver,9
+1026,Karina,Anderson,,19.0,karaproctor@hill-barron.info,112.504.5945x49265,East Tony,Louisiana$,Guadeloupe,27018,2022/07/17,16/07/2025,15.0,3044.66,Credit Card,No,Yes,Bronze,4
+1027,Michael,Burton,Female,54.0,ahamilton@@patel-hoffman.com,001-344-603-6455x9334,Janetchester,Mississippi$,Kazakhstan,83586,06-Jan-2024,28/05/2025,5.0,426.81,PayPal,Yes,No,Silver,5
+1028,Kelly,Camacho,Female,20.0,kaylagalvan@richardson.info,3240823071073,East Whitneytown,Mainea,Swaziland,34761,2024/03/14,04/01/2025,23.0,196.84,Bank Transfer,No,,Silver,1
+1029,Amy,Fitzgerald,,23.0,isingleton@hotmail.com,180.214.7813,Rachelfurt,Idaho,Micronesia,,26-12-2023,2025/07/13,36.0,4620.88,Credit Card,,,Platinum,4
+1030,Blake,Tran,Female,51.0,albert55@alexander.com,629-789-0313x47031,Huynhburgh,Mississippi$,Saint Barthelemy,99187,2021/08/15,2025/09/17,16.0,2437.49,Bank Transfer,No,,Gold,3
+1031,Stephen,Shaw,Male,29.0,brownandrea@@hotmail.com,+1-132-816-7683x407,Taylorfort,Nebraska$,Angola,55099,08-Jan-2025,06-01-2025,14.0,3045.26,Debit Card,Yes,,Platinum,seven
+1032,,Gonzalez,Female,47.0,thomas79@@yahoo.com,+1-716-562-9590,Stacyhaven,Nebraska@,Seychelles,24931,09-Dec-2023,2025/08/20,18.0,3426.95,Credit Card,No,,Gold,5
+1033,Amy,Wallace,Male,67.0,simmonstina@gilmore-cabrera.biz,+1-168-971-8236x8105,Patriciashire,South Carolina,Saint Martin,13150,2025/07/11,2025/05/30,31.0,2008.29,Debit Card,No,Yes,Silver,seven
+1034,Sarah,Jackson,Female,69.0,gillamanda@yahoo.com,723.889.2691x59064,New Jane,Nevadaa,Somalia,49687,29-03-2025,20-01-2025,7.0,2501.91,PayPal,,No,Silver,5
+1035,Shawn,Stokes,,30.0,brittany57@phillips.com,4938813194745,Tracyview,Missouri$,Tokelau,44032,2022/10/17,2024/11/28,3.0,4796.11,PayPal,,No,Gold,10
+1036,Abigail,Navarro,,53.0,traci59@gray.org,082-887-3633x9837,West Richard,Indiana$,Netherlands,32931,18-01-2022,29/09/2025,49.0,2231.62,PayPal,Yes,,Silver,4
+1037,Ashley,Barnes,,60.0,mhall@kemp-miller.com,1437842587359,Bryantborough,Coloradoa,Tanzania,92977,29-Sep-2022,12-10-2024,43.0,4921.02,Credit Card,No,Yes,Gold,7
+1038,David,Williams,Male,28.0,suzannebell@massey.com,802.934.3569x13533,Mooremouth,Kentucky$,Gambia,92131,03-Sep-2022,2025/02/24,36.0,1864.86,Credit Card,No,,Gold,8
+1039,Mark,Hampton,Male,18.0,wpierce@yahoo.com,839.373.0872,Port Christine,New Hampshirea,Ireland,56154,2024/07/03,08/10/2024,23.0,1601.88,PayPal,,Yes,Silver,10
+1040,Marissa,Valencia,Male,23.0,allentonya@gmail.com,(247)900-7413x0623,Samanthamouth,Louisiana@,Lebanon,31028,28-Nov-2023,16-02-2025,34.0,172.85,PayPal,,Yes,Platinum,10
+1041,Charles,Erickson,Female,55.0,ybailey@harris.com,604.033.2793,Elizabethmouth,Wisconsin,Central African Republic,20776,19-07-2021,21/05/2025,47.0,1299.3,Bank Transfer,No,,Silver,5
+1042,Michele,Martinez,Male,40.0,jenniferblack@ross.com,5743960556818,Port John,Washington$,Saint Barthelemy,30913,14-Oct-2020,06-05-2025,9.0,2381.23,Debit Card,Yes,No,Platinum,4
+1043,Danielle,Dudley,Female,35.0,reneemathis@hopkins-huffman.com,+1-915-573-4238,New Ryan,Iowa,Gambia,25866,2023/12/13,16-11-2024,2.0,4706.8,Debit Card,,Yes,Silver,4
+1044,Brett,Miller,Female,49.0,rodney10@strickland.net,001-151-342-8890x39727,Lake Elizabeth,Wisconsin,Holy See (Vatican City State),20319,09-09-2021,19-04-2025,9.0,2404.34,Credit Card,Yes,No,Gold,9
+1045,Kim,Campbell,,66.0,harrisonjeffrey@beck.org,319-240-1187x28690,Lake Amanda,Kansas$,Pitcairn Islands,01182,02-10-2023,16-06-2025,10.0,4030.4,Bank Transfer,Yes,,Bronze,10
+1046,Joe,Wells,Female,51.0,jeremymanning@allen.com,393-117-7218x2757,Lake Jessicaside,Wyoming$,Bahamas,83027,08-Feb-2022,02/05/2025,18.0,540.74,Credit Card,Yes,No,Gold,6
+1047,Juan,White,,52.0,aharrison@@gmail.com,(634)848-4082x92815,Carmenshire,Alaska,Kiribati,00520,31-Mar-2022,2025/01/25,15.0,,Credit Card,No,,Platinum,5
+1048,Amanda,Mcconnell,Female,64.0,sullivankelly@yahoo.com,+1-072-287-5809,Frankport,Nevadaa,South Africa,74344,2021/10/22,02/05/2025,40.0,4942.12,Bank Transfer,,,Bronze,8
+1049,,Harris,Male,66.0,melissajones@smith.com,306.504.0191,East Kristinmouth,Texasa,Turkmenistan,18562,04-Nov-2020,2025/06/18,42.0,1041.47,Bank Transfer,,,Platinum,8
+1050,Robert,Callahan,Female,41.0,kmcgee@yahoo.com,552-393-7627,South Lisafort,South Carolina@,Australia,95210,08-11-2021,18-10-2024,31.0,3929.36,Debit Card,,No,Silver,9
+1051,Lindsey,Bennett,Male,36.0,brendan41@yahoo.com,001-546-760-9002x31985,Lake Donnaton,Texas,Estonia,16842,10-Aug-2024,2025/02/04,37.0,3799.85,PayPal,No,Yes,Silver,7
+1052,Donald,Hill,,60.0,dawn77@@farmer.com,7595620519077,East Tara,Nebraska$,Hong Kong,68056,28-06-2022,22/04/2025,14.0,220.11,Debit Card,Yes,Yes,Gold,7
+1053,Kristin,Moore,Male,45.0,avazquez@moss-ramirez.net,2371546881476,Rosstown,Minnesota,Myanmar,76147,17-Feb-2025,12/11/2024,42.0,4074.42,PayPal,Yes,,Bronze,4
+1054,Jerry,Gibson,,45.0,lemelinda@taylor.com,001-999-921-6835x9821,Brownshire,Utaha,American Samoa,98635,02-08-2025,03-03-2025,34.0,2680.37,PayPal,,Yes,Gold,9
+1055,Jo,Johnson,Female,45.0,ariley@@moreno.org,001-143-270-1347x241,East Christopher,South Dakota,Ukraine,77234,2024/11/26,2025/09/21,43.0,522.9,Credit Card,No,,Bronze,6
+1056,Robert,Garcia,,33.0,patricia03@spencer.com,9015755915748,Loveberg,Nebraska@,Bhutan,45245,22-Nov-2022,07-06-2025,25.0,4929.6,Credit Card,Yes,,Silver,2
+1057,,Noble,Female,36.0,floresthomas@frederick.com,(991)443-5755x57599,Mathewstad,North Dakota,Chile,34867,2023/04/29,2025/05/23,25.0,2885.35,Debit Card,Yes,Yes,Bronze,3
+1058,Crystal,Jenkins,Male,38.0,asanchez@hotmail.com,+1-291-733-6869x4875,South Kristytown,Idahoa,Comoros,97604,14-01-2022,03-09-2025,,2563.76,Credit Card,No,No,Gold,3
+1059,Angela,White,Female,54.0,hollowaybryan@flowers.com,001-777-918-4005,South Bobbyshire,Massachusettsa,Marshall Islands,95992,2020/10/31,30-06-2025,4.0,3793.55,Debit Card,No,,Bronze,1
+1060,,Hill,,31.0,wsmith@hotmail.com,350.721.4044,Wagnerhaven,Louisianaa,Liechtenstein,74580,15-Jan-2025,27/05/2025,44.0,664.15,Bank Transfer,No,No,Platinum,6
+1061,Manuel,Stanley,,40.0,mking@sexton.com,001-744-398-6762x1220,Ericstad,New Jersey$,South Georgia and the South Sandwich Islands,97019,2022/05/30,2025/08/30,50.0,1448.27,Debit Card,Yes,No,Silver,10
+1062,Megan,,Female,22.0,david48@gmail.com,(488)414-3715,West Justin,Georgia@,Christmas Island,08130,2025/03/06,31-07-2025,27.0,3744.01,Credit Card,,No,Silver,10
+1063,Jill,Klein,Male,,nicole84@yahoo.com,1126192471,New Jon,South Dakotaa,Taiwan,36281,14-Jul-2023,01/10/2024,40.0,1765.16,Debit Card,,Yes,Bronze,seven
+1064,David,Cummings,,66.0,wrightjasmin@smith-odom.com,5190491209,Lake Josephfort,Oklahoma,Paraguay,08710,08-10-2023,09/01/2025,33.0,1681.48,PayPal,Yes,No,Platinum,3
+1065,John,Case,Male,50.0,georgechristopher@brown.com,513-967-2527x20465,North Brooke,Michigana,Burkina Faso,44433,11-05-2021,09-11-2024,13.0,393.9,Bank Transfer,Yes,,Gold,8
+1066,Tiffany,Thompson,Male,55.0,espinozashannon@yahoo.com,+1-140-254-5933x3387,East Brittanyland,Michigan$,Greece,91024,2022/10/05,11/09/2025,38.0,2461.84,PayPal,Yes,Yes,Gold,5
+1067,Randall,Lee,Male,50.0,elizabeth24@hunter.net,994-608-7691x86039,Lake Jerome,South Dakotaa,Ghana,11637,02-Mar-2024,2025/01/28,18.0,3662.98,Bank Transfer,Yes,No,Platinum,2
+1068,Deanna,Snyder,,,wgray@hotmail.com,652.378.5032x939,Huntview,Minnesotaa,Spain,49768,19-Nov-2024,11-02-2025,18.0,2170.12,Debit Card,,,Bronze,9
+1069,Dawn,Gordon,,57.0,jeremy44@hotmail.com,515-005-3874,Calderonshire,Oklahoma$,Greece,98618,04-01-2023,2025/07/16,50.0,2810.26,Bank Transfer,,Yes,Silver,10
+1070,Rebecca,Beard,Male,70.0,rdeleon@gmail.com,001-690-801-8738,New Ashleyview,New Jerseya,Sierra Leone,65879,2023/10/29,19/05/2025,37.0,4209.51,Debit Card,,Yes,Bronze,10
+1071,Lisa,Anderson,Male,58.0,umcdonald@hotmail.com,(068)278-1801x15990,North Heidimouth,Missouria,South Africa,72756,04-Nov-2023,26-07-2025,21.0,4460.78,Debit Card,,,Platinum,10
+1072,Andrew,Powell,,28.0,raven46@garcia.net,465.636.0913,New Ashleyfurt,Maryland$,Bangladesh,93873,06-May-2021,25-07-2025,23.0,256.98,Bank Transfer,Yes,Yes,Platinum,2
+1073,Mary,Wong,Male,,victortucker@@collins.info,001-172-343-0742,East Alfredton,Tennesseea,Bosnia and Herzegovina,34358,03-11-2022,2025/09/25,14.0,1889.52,Bank Transfer,,Yes,Platinum,7
+1074,Crystal,,Female,38.0,rickanderson@thompson.com,714.480.1257x173,East Melissa,Iowa@,Nauru,78208,2022/09/30,07/01/2025,35.0,1293.61,PayPal,Yes,Yes,Silver,9
+1075,William,Hayes,Male,57.0,danielthompson@johnson.com,(743)493-3732x3181,Medinaville,California$,Israel,81195,20-Mar-2024,2025/02/05,31.0,3089.97,Credit Card,Yes,Yes,Silver,9
+1076,Gregg,Kennedy,,30.0,sarahgreen@@ray-lawson.info,621-502-8078x2573,Kennethside,Mainea,Lao People's Democratic Republic,08820,03-11-2020,01-09-2025,19.0,2274.58,Bank Transfer,No,Yes,Silver,3
+1077,Justin,Berg,,68.0,thomasjames@wolfe.biz,(110)730-0115x016,South Bryce,Pennsylvaniaa,Uruguay,24626,2022/10/22,15-03-2025,12.0,1623.81,Credit Card,Yes,Yes,Platinum,6
+1078,Ana,Conner,,49.0,crossjoshua@yahoo.com,7651452338556,Wrightshire,South Carolina,Samoa,34012,22-Sep-2025,25-01-2025,25.0,4130.22,Credit Card,,No,Gold,seven
+1079,Robert,Douglas,,57.0,vaughndestiny@thompson.net,+1-936-915-8603x340,Moorehaven,Michigan,New Zealand,42775,30-May-2023,27/11/2024,,3785.0,PayPal,,,Bronze,1
